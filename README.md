@@ -58,4 +58,4 @@ Metrics to be tracked:
 
 ## More Info
 
-[Full project narrative and strategic framework]:(https://aalopez76.github.io/projects/D&G_project/)
+[Full project narrative and strategic framework](https://aalopez76.github.io/projects/D&G_project/)
