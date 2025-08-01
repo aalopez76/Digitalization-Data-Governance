@@ -50,8 +50,8 @@ Metrics to be tracked:
 
 ## ⚙️ Technical Resources
 
-- [SQL Cleaning Scripts](scripts/sql_cleaning.md)  
-- [Business Queries](scripts/business_queries.md)  
+- [SQL Cleaning Scripts](scripts/sql_cleaning.md) (coming soon) 
+- [Business Queries](scripts/business_queries.md) (coming soon) 
 - [Streamlit Dashboard](link/to/dashboard) (coming soon)
 
 ---
@@ -59,4 +59,4 @@ Metrics to be tracked:
 ## More Info
 
 Full project narrative and strategic framework:  
-[https://aalopez76.github.io/]([https://tu-sitio.com/proyectos/la-ferme](https://aalopez76.github.io/projects/D&G_project/))
+[https://aalopez76.github.io/](https://aalopez76.github.io/projects/D&G_project/)
